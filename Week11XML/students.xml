@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <student ID="1">
+        <firstName>John</firstName>
+        <lastName>Doe</lastName>
+        <studentID>1</studentID>
+        <major>Computer Science</major>
+        <gender>M</gender>
+        <email>john.doe@example.com</email>
+    </student>
+    <student ID="2">
+        <firstName>Jane</firstName>
+        <lastName>Smith</lastName>
+        <studentID>2</studentID>
+        <major>Mathematics</major>
+        <gender>F</gender>
+        <email>jane.smith@example.com</email>
+    </student>
+    <student ID="3">
+        <firstName>Bob</firstName>
+        <lastName>Johnson</lastName>
+        <studentID>3</studentID>
+        <major>Physics</major>
+        <gender>M</gender>
+        <email>bob.johnson@example.com</email>
+    </student>
+    <student ID="4">
+        <firstName>Alice</firstName>
+        <lastName>Williams</lastName>
+        <studentID>4</studentID>
+        <major>Chemistry</major>
+        <gender>F</gender>
+        <email>alice.williams@example.com</email>
+    </student>
+    <student ID="5">
+        <firstName>Charlie</firstName>
+        <lastName>Brown</lastName>
+        <studentID>5</studentID>
+        <major>Biology</major>
+        <gender>M</gender>
+        <email>charlie.brown@example.com</email>
+    </student>
+    <student ID="6">
+        <firstName>Eva</firstName>
+        <lastName>Miller</lastName>
+        <studentID>6</studentID>
+        <major>History</major>
+        <gender>F</gender>
+        <email>eva.miller@example.com</email>
+    </student>
+</students>
